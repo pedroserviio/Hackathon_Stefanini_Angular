@@ -15,7 +15,7 @@
 <p align="center">Em desenvolvimento...</p>
 
 ## Funcionalidades
-- [x] CRUD de Clientes
+- [x] CRUD de Produtos
 - [ ] Integração com BD
 
 ## Requisitos
