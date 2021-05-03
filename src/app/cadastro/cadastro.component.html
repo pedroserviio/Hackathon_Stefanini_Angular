@@ -1,0 +1,13 @@
+<div class="container" style="border: 1px solid;" style="background-color: #212529;">
+  <label for="nome" class="form-label" style="color: white;"><strong>Produto</strong></label>
+  <input class="form-control" name="nome" id="nome" [(ngModel)]="produto.nome">
+  <label for="nome" class="form-label" style="color: white;"><strong>Preço</strong></label>
+  <div class="input-group mb-3">
+    <span class="input-group-text">R$</span>
+    <input type="text" class="form-control" name="preco" id="preco" [(ngModel)]="produto.preco" pattern="[0-9]">
+  </div>
+  <label for="nome" class="form-label" style="color: white;"><strong>Descrição do Produto</strong></label>
+  <input class="form-control" name="descricao" id="descricao" [(ngModel)]="produto.descricao">
+  <button type="button" class="btn btn-success" style="margin-bottom: 10px; margin-top: 10px;" (click)="adicionarItem()"
+    [disabled]="!produto.nome || !produto.descricao || !produto.preco "> {{textoBotao}}</button>
+</div>

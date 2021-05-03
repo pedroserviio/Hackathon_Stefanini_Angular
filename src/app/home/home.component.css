@@ -1,0 +1,28 @@
+#preloader {
+  position:fixed;
+  top: 30%;
+  left: 45%;
+  right:55%;
+  bottom:70%;
+  background: #F6F8FA;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index:999;
+  width: 200px;
+  height: 200px;
+  border: 8px solid blue;
+  border-top-color: black;
+  border-radius: 50%;
+  animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+thead > tr > th {
+  cursor: pointer;
+}

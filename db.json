@@ -1,0 +1,84 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "img": "https://atlas-content-cdn.pixelsquid.com/stock-images/playstation-5-set-game-console-yw05A8A-600.jpg",
+      "nome": "PlayStation 5",
+      "preco": "6000",
+      "desconto": 0.1,
+      "descricao": "Jogar Não Tem Limites Desfrute do carregamento extremamente rápido com o SSD de altíssima velocidade, uma imersão mais profunda com suporte a feedback tátil, gatilhos adaptáveis e áudio 3D, além de uma geração inédita de jogos incríveis para Playstation. Domine o poder de uma CPU e GPU personalizadas e o SSD com E/S integradas que redefinem as regras do que o console Playstation pode fazer."
+    },
+    {
+      "id": 2,
+      "img": "https://img.estadao.com.br/fotos/crop/1200x1200/resources/jpg/3/6/1546976209963.jpg",
+      "nome": "PlayStation 4",
+      "preco": "3000",
+      "desconto": 0.1,
+      "descricao": "O DUALSHOCK 4 apresenta inovações que proporcionam experiências de jogos mais envolventes, incluindo um sensor de seis eixos de alta sensibilidade, além de um painel de toque localizado na parte superior do controle, oferecendo maneiras totalmente novas de jogar e interagir com os jogos. O novo botão Share disponibiliza a transmissão de vídeo e o compartilhamento com apenas um toque."
+    },
+    {
+      "id": 3,
+      "img": "https://rihappy.vteximg.com.br/arquivos/ids/393585-768-768/controle-para-ps4-dualshock-jet-preto-sony-15158_Frente.jpg?v=637018101554270000",
+      "nome": "Controle sem fio Dualshock 4.0",
+      "preco": "320",
+      "desconto": 0.1,
+      "descricao": "O Controle PS4 Sony DualShock é ideal para o PlayStation®4 trazendo mais facilidade para você. Além de não possuir fio agora você pode fazer upload de vídeos de gameplay e capturas de tela diretamente do seu sistema ou transmita seu gameplay."
+    },
+    {
+      "id": 4,
+      "img": "http://i.mlcdn.com.br/portaldalu/fotosconteudo/48019.jpg",
+      "nome": "PS VR",
+      "preco": "3000",
+      "desconto": 0.1,
+      "descricao": "O PlayStation VR, o visor de realidade virtual da Sony para o PlayStation 4, traz uma ao jogador uma realidade jamais vista nos consoles, e além disso chegou com uma boa quantidade de jogos. todos os detalhes de uma gameplay, esteja sempre no centro da ação.A versão Bundle do PlayStation VR apresenta o visor, a PlayStation câmera e dois controles move, que é o equipamento necessário para jogar, ele pode ser jogado sentado, ao contrario do Kinect. A Sony recomenda uma área de 2 metros por 3 metros. E até mesmo os jogos que não possuem suporte VR poderão ser jogados com ele, só que no modo cinema."
+    },
+    {
+      "id": 5,
+      "img": "https://a-static.mlcdn.com.br/1500x1500/console-xbox-360-4gb-2-controles-wireless-microsoft/comercialfkl/369/15adbdeceaa41972b111e5117caeb994.jpg",
+      "nome": "XBOX 360",
+      "preco": "900",
+      "desconto": 0.1,
+      "descricao": "Os consoles e acessórios do Xbox 360 foram feitos para trazer mais diversão a sua vida. Encontre o console ideal para você, e complete sua experiência com acessórios para aproveitar o máximo do seu Xbox 360."
+    },
+    {
+      "id": 6,
+      "img": "https://www.supergames.com.py/706-thickbox_default/console-xbox-one-s-1tb-branco.jpg",
+      "nome": "XBOX ONE",
+      "preco": "2900",
+      "desconto": 0.1,
+      "descricao": "Bem vindo a uma nova geração de jogos e entretenimento onde os jogos beiram a fronteira do realismo e ouvir música enquanto joga acontece de maneira instantânea, além disso, você pode mudar entre sua televisão para música ou um jogo em um instante. O entretenimento que você adora está em um só lugar. Bem vindo ao tudo em um, Xbox One."
+    },
+    {
+      "img": "https://www.techinn.com/f/13777/137776929/microsoft-xbox-series-x-1tb.jpg",
+      "id": 7,
+      "nome": "Xbox Series X",
+      "preco": "6900",
+      "desconto": 0,
+      "descricao": "Com seu console Xbox Series você terá entretenimento garantido todos os dias. Sua tecnologia foi criada para colocar novos desafios para jogadores novatos e especialistas.  A nova geração de consoles é comandada por Xbox Series que chegou ao mercado para surpreender a todos. Sua potência e alto desempenho permitirão que você reduza consideravelmente as horas de download de jogos e conteúdo em comparação com outros consoles. Além disso, você poderá jogar por horas enquanto se diverte com jogadores de todo o mundo."
+    },
+    {
+      "img": "https://image.api.playstation.com/vulcan/ap/rnd/202008/1020/T45iRN1bhiWcJUzST6UFGBvO.png",
+      "id": 8,
+      "nome": "Spider-Man: Miles Morales",
+      "preco": "200",
+      "desconto": 0,
+      "descricao": "Spider-Man: Miles Morales é um jogo eletrônico de ação-aventura desenvolvido pela Insomniac Games e publicado pela Sony Interactive Entertainment para o PlayStation 4 e PlayStation 5"
+    },
+    {
+      "img": "https://image.api.playstation.com/vulcan/img/rnd/202011/1021/X3WIAh63yKhRRiMohLoJMeQu.png",
+      "id": 9,
+      "nome": "God of War",
+      "preco": "100",
+      "desconto": 0,
+      "descricao": "O Santa Monica Studio e o diretor de criação Cory Barlog lançam um novo começo para um dos personagens mais conhecidos dos jogos. Vivendo como um homem, fora da sombra dos deuses, Kratos deve se adaptar a terras desconhecidas, ameaças inesperadas e a uma segunda oportunidade de ser pai. Junto ao seu filho, Atreus, os dois vão se aventurar pelas selvagens florestas nórdicas e lutar para cumprir uma missão profundamente pessoal."
+    },
+    {
+      "img": "https://store-images.s-microsoft.com/image/apps.10920.69279545232152045.f1a4a87c-fcc9-4b7c-a620-f6c56eb2d5ad.537d404f-d551-430c-8000-9a4c657bf354?mode=scale&q=90&h=300&w=200",
+      "id": 10,
+      "nome": "Halo 5: Guardians",
+      "preco": "95",
+      "desconto": 0,
+      "descricao": "Halo 5: Guardians é uma experiência multijogador épica com vários modos, ferramentas para criar níveis e a história mais emocionante até hoje. Com atualizações GRATUITAS desde o lançamento, Halo 5: Guardians tem mais conteúdo, mais combate multijogador e mais variedade do que qualquer Halo já lançado!"
+    }
+  ]
+}
