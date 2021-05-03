@@ -6,8 +6,9 @@
 <p align="center">
   Criado somente a fins de aprendizado do framework Angular2+.
 <p>
-
-Esse projeto foi gerado com [Angular CLI](https://github.com/angular/angular-cli) version 11.2.11.
+<p align="center">
+  Esse projeto foi gerado com [Angular CLI](https://github.com/angular/angular-cli) version 11.2.11.
+</p>
 
 ## Status 
 
